@@ -1,0 +1,24 @@
+export const seededRoutes = [
+  {
+    id: 'route-1',
+    name: 'Budapest Easy Paddle',
+    points: [
+      [47.571, 19.062],
+      [47.555, 19.056],
+      [47.536, 19.049],
+      [47.515, 19.045]
+    ],
+    estimatedSpeedKmh: 6
+  },
+  {
+    id: 'route-2',
+    name: 'Szentendre Relaxed Branch',
+    points: [
+      [47.715, 19.082],
+      [47.695, 19.079],
+      [47.675, 19.074],
+      [47.650, 19.071]
+    ],
+    estimatedSpeedKmh: 5
+  }
+]
